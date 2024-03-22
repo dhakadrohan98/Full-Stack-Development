@@ -1,0 +1,18 @@
+body {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#title {
+    margin: calc(4%/3);
+    font-family: "Rampart One";
+    font-size: 3rem;
+}
+
+.image {
+    height: 20rem;
+    width: 30%;
+    margin: calc(4%/3);
+    border-radius: 4px;
+}
